@@ -3,5 +3,13 @@ h1 {
     color: white;
     font-size: 32;
     font-weight: bold;
-    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
+   
+ul,
+ol {
+    font-size: 120%;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
