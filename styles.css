@@ -1,8 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    body {
+        margin: 50px;
+        padding: 50px;
+        border: 5px solid #bd0000f1;
+        }
+}
+
+img {
+    width: 688px
+}
+
 h1 {
     background-color: #bd0000f1;
     color: white;
-    font-size: 32;
+    font-size: 40;
     font-weight: bold;
+    text-align: center;
 }
    
 ul,
@@ -10,6 +24,13 @@ ol {
     font-size: 120%;
 }
 
-* {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+h4 {
+    text-decoration: underline;
 }
+
+a {
+    
+    text-decoration: none;
+    line-height: 2;
+}
+
