@@ -8,7 +8,9 @@
 }
 
 img {
-    width: 688px
+    width: 420px;
+    max-width: 100%;
+    height: auto;
 }
 
 h1 {
