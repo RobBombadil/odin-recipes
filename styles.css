@@ -19,11 +19,26 @@ h1 {
     font-size: 40;
     font-weight: bold;
     text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: white underline;
+}
+
+h3 {
+    font-family: cursive;
+}
+
+h4 {
+    background-color: #ff105833;
 }
    
 ul,
 ol {
     font-size: 120%;
+}
+
+.steg li {
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h4 {
