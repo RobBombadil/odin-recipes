@@ -45,8 +45,7 @@ ol {
 
 .links {
     background-color: #ff105833;
-    display: block;
-    border-left: 4px solid #bd0000f1;
+    border-left: 8px solid #bd0000f1;
     padding: 3px 3px 3px 6px;
     margin: 10px 0px 4px -40px;
     line-height: 2;
@@ -57,4 +56,8 @@ ol {
 a:link, a:visited {
     color: rgb(255, 255, 255);
     text-decoration: none;
-} 
+    display: block;
+    } 
+    
+a:hover {
+    color: #000000c4;
