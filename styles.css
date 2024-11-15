@@ -53,11 +53,11 @@ ol {
     padding: 1px 6px 3px 6px;
     margin: 6px 0px 4px -40px;
     background-color: #ff105833;
-    border: 0px solid #bd0000f1;
     border-radius: 0px;
     line-height: 3;
     list-style-type: none;
     font-weight: bold;
+    border-radius: 10px;
 }
 
 a:link, a:visited {
